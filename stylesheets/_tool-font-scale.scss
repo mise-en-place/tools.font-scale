@@ -1,7 +1,11 @@
 // ==========================================================================
 // FONT SCALE TOOL
 // ==========================================================================
-//
+
+@import "tool-type-config";
+@import "tool-rem-calc";
+@import "tool-map-get-if-exists";
+
 // A tool which uses a Sass map to calculate the line-height and font-sizes of
 // particular type families.
 //
