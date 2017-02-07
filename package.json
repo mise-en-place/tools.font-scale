@@ -22,6 +22,6 @@
   "dependencies": {
     "mep-tools.type-config": "github:mise-en-place/tools.type-config",
     "mep-tools.rem-calc": "github:mise-en-place/tools.rem-calc",
-    "mep-tools.map-get-if-exists": "github:mise-en-place/tools.map-get-if-exists",
+    "mep-tools.map-get-if-exists": "github:mise-en-place/tools.map-get-if-exists"
   }
 }
