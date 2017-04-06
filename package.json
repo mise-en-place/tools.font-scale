@@ -1,15 +1,9 @@
 {
   "name": "mep-tools.font-scale",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Font Scaling Tool",
   "main": "stylesheets/_tool-font-scale.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "tool-font-scale",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
