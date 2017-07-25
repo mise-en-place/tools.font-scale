@@ -1,5 +1,5 @@
 {
-  "name": "mep-tools.font-scale",
+  "name": "@mise-en-place/tools.font-scale",
   "version": "2.0.0",
   "description": "Font Scaling Tool",
   "main": "stylesheets/_tool-font-scale.scss",
@@ -14,8 +14,8 @@
   "author": "Kind",
   "license": "MIT",
   "dependencies": {
-    "mep-tools.type-config": "github:mise-en-place/tools.type-config",
-    "mep-tools.rem-calc": "github:mise-en-place/tools.rem-calc",
-    "mep-tools.map-get-if-exists": "github:mise-en-place/tools.map-get-if-exists"
+    "@mise-en-place/tools.type-config": "~3.0.0",
+    "@mise-en-place/tools.rem-calc": "~3.0.0",
+    "@mise-en-place/tools.map-get-if-exists": "~3.0.0"
   }
 }
